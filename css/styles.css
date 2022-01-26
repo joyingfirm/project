@@ -1,0 +1,60 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  .adept h1{
+      background-image: url("/images/desk.jpeg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      /* background-position: center; */
+      background-attachment: fixed;
+      height: 300px;
+    
+
+  }
+  .adept h1{
+      text-align: center;
+      font-size: 30px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: chartreuse;
+      margin-top: 30px;
+  }
+  h2{
+      text-align: center;
+  }
+  .samy h1{
+    background-image: url("/images/POOL.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-attachment: fixed;
+    height: 300px;
+  
+
+}
+.samy h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    margin-top: 30px;
+}
