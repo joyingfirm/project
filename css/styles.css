@@ -58,3 +58,7 @@ ul {
     color: red;
     margin-top: 30px;
 }
+th, td {
+  border-style:solid;
+  border-color: #96D4D4;
+}
