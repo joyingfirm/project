@@ -62,3 +62,11 @@ th, td {
   border-style:solid;
   border-color: #96D4D4;
 }
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
