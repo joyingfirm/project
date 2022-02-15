@@ -70,3 +70,8 @@ th, td {
   padding: 5px;
   text-align: left;
 }
+#grad1 {
+  height: 200px;
+  background-color: #cccccc;
+  background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
+}
